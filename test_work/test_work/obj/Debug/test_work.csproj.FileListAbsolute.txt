@@ -1,0 +1,15 @@
+C:\Users\iron-\source\repos\test_work\test_work\bin\Debug\test_work.exe.config
+C:\Users\iron-\source\repos\test_work\test_work\bin\Debug\test_work.exe
+C:\Users\iron-\source\repos\test_work\test_work\bin\Debug\test_work.pdb
+C:\Users\iron-\source\repos\test_work\test_work\obj\Debug\test_work.csproj.AssemblyReference.cache
+C:\Users\iron-\source\repos\test_work\test_work\obj\Debug\test_work.Properties.Resources.resources
+C:\Users\iron-\source\repos\test_work\test_work\obj\Debug\test_work.csproj.GenerateResource.cache
+C:\Users\iron-\source\repos\test_work\test_work\obj\Debug\test_work.csproj.CoreCompileInputs.cache
+C:\Users\iron-\source\repos\test_work\test_work\obj\Debug\test_work.exe
+C:\Users\iron-\source\repos\test_work\test_work\obj\Debug\test_work.pdb
+C:\Users\iron-\source\repos\test_work\test_work\obj\Debug\test_work.Form1.resources
+C:\Users\iron-\source\repos\test_work\test_work\bin\Debug\Newtonsoft.Json.dll
+C:\Users\iron-\source\repos\test_work\test_work\bin\Debug\Newtonsoft.Json.xml
+C:\Users\iron-\source\repos\test_work\test_work\obj\Debug\test_work.csproj.CopyComplete
+C:\Users\iron-\source\repos\test_work\test_work\obj\Debug\test_work.Form2.resources
+C:\Users\iron-\source\repos\test_work\test_work\obj\Debug\test_work.Read.resources
